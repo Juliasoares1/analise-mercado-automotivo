@@ -1,5 +1,8 @@
 # 🚗 Análise do Mercado Automotivo no Brasil
 
+## 🔗 Acesse o projeto
+Notebook completo disponível neste repositório.
+
 ## 📊 Objetivo
 
 Este projeto tem como objetivo analisar o crescimento das vendas de veículos no Brasil ao longo dos anos, com foco na evolução dos veículos elétricos e híbridos em comparação aos veículos a combustão.
